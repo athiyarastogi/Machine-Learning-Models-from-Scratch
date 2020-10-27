@@ -1,6 +1,6 @@
 # Machine-Learning-Models-from-Scratch
 
-```A collection of Machine Learning Models Made from Scratch. These models were created while solving questions on the following topics.```
+```A collection of unsupervised Machine Learning Models Made from Scratch. These models were created while solving questions on the following topics.```
 
 
 1. Feature Reduction using Principle Component Analysis
