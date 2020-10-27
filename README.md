@@ -37,6 +37,8 @@ more images from one class than another. Between them, the training batches cont
  **Classes:** The dataset consists of 10 classes {`airplane', `automobile', `bird', `cat', `deer', `dog',
 `frog', `horse', `ship', `truck'}
 
+**Process**
+
   1. Loading and normalizing the CIFAR10 training and test datasets using torchvision.
   
   2. Convolution layers, max pooling, and 3 layers for feed-forward network.
