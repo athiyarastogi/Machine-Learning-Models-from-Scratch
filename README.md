@@ -8,7 +8,7 @@
 2. Image Classification using Convolution Neural Network
 ------------------------------------------------------------------------------------------------------
 
-```Principal Component Analysis```
+**Principal Component Analysis**
 
 
 PCA (principal component analysis) on the Iris dataset and reduce it to 3 features and 2
@@ -18,9 +18,9 @@ features.
 
 --------------------------------------------------------------------------------------------------------
 
-```Image Classification using Convolution Neural Network```
+**Image Classification using Convolution Neural Network**
 
-  **Model Accuarcy: 72%**
+  ```Model Accuarcy: 72%```
 
 
  **Dataset:** CIFAR10 dataset
