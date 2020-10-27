@@ -6,6 +6,6 @@
 
 These models were created while solving questions on the following topics:
 
-**1. Principle Component Analysis for Feature Reduction**
+**1. Feature Reduction through Principle Component Analysis**
 
 **2. Image Classification through Convolution Neural Network**
