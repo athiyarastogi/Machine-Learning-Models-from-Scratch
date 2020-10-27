@@ -10,6 +10,7 @@
 
 **Principal Component Analysis**
 
+  ```Explained Variance Ratio: 85%```
 
 PCA (principal component analysis) on the Iris dataset and reduce it to 3 features and 2
 features.
